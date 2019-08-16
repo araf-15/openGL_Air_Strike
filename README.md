@@ -18,3 +18,16 @@ Have to be work in future:
    asteroid then I will deceremtnt the aircraft life line and on that way the game will be finished.
    So, It can be say that my game is little bit incomplete but I belive I could fixed this in
    future.
+   
+ Requirements:
+ 1) As I used a background sound so, some settings in Code-Blocks is required. 
+    Go to Settings > Compiler > Linker Settings > Other Linker Options > new wirte '-lwinmm' > Press 'Ok'
+    
+ Challenges:
+ 1) I tried to use a Sound Engine like 'irrKlang' but there are less documentation. So, I could not manage to play multiple sounds at a       time.
+ 2) I calculate all of the asteroid position menually and calculate the the ditection value, As a result there is a bug in score count,       but for now it is quite decent to play.
+ 
+ Youtube Link:
+ 1) Air_Strike (openGL): https://www.youtube.com/watch?v=Eg3TTAReQyE
+ 
+ 2) One day I made another game by Assembly Language: Name of the game was: Box_Slash_Game: If any one is intrested can click this link: https://www.youtube.com/watch?v=I4y7Hdu8PVo&t=48s
