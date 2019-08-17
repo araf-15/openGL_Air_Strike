@@ -28,6 +28,6 @@ Have to be work in future:
  2) I calculate all of the asteroid position menually and calculate the the ditection value, As a result there is a bug in score count,       but for now it is quite decent to play.
  
  Youtube Link:
- 1) Air_Strike (openGL): https://www.youtube.com/watch?v=Eg3TTAReQyE
+ 1) Air_Strike (openGL): https://www.youtube.com/watch?v=-0FaacByG4w&feature=youtu.be
  
  2) One day I made another game by Assembly Language: Name of the game was: Box_Slash_Game: If any one is intrested can click this link: https://www.youtube.com/watch?v=I4y7Hdu8PVo&t=48s
