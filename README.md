@@ -21,7 +21,7 @@ Have to be work in future:
    
  Requirements:
  1) As I used a background sound so, some settings in Code-Blocks is required. 
-    Go to Settings > Compiler > Linker Settings > Other Linker Options > new wirte '-lwinmm' > Press 'Ok'
+    Go to Settings > Compiler > Linker Settings > Other Linker Options > now wirte '-lwinmm' > Press 'Ok'
     
  Challenges:
  1) I tried to use a Sound Engine like 'irrKlang' but there are less documentation. So, I could not manage to play multiple sounds at a       time.
