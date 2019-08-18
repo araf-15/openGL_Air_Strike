@@ -3,6 +3,7 @@ This is Computer Graphics Course Lab Project,
 My project name is "Air Strike", I build this on openGL. 
 
 Project Description:
+
 In this game I have an aircraft, this aircraft can travel through an Environment. I write the 
 code of the game like it will generate the environment over and over again with some 
 stars/asteroid. My job will be to kill those astrieds by sooting missiles. I measure the position
