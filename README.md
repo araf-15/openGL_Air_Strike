@@ -12,11 +12,11 @@ a player by 1. (N.B: There is a bug in point incrementing system, I found where 
 for now I have limited amount of time to finish the game, so here is a gap to fixed this type of problem)
 
 Have to be work in future:
-1) 1st of all I have to fixed the point incrementing bug.
-2) For now I am not checking if the aircraft collied with the astoried or not, If I will give any
-   option in future I will also measure it as the missile collied. If the aircraft collied with the
+1) 1st of all I have to fixed the point(score) incrementing bug.
+2) For now I am not checking if the aircraft collied with the astoried or not, If I have any
+   option in future I will also measure it as like the missile collied. If the aircraft collied with the
    asteroid then I will deceremtnt the aircraft life line and on that way the game will be finished.
-   So, It can be say that my game is little bit incomplete but I belive I could fixed this in
+   So, I can say, my game is little bit incomplete but I belive I could fixed this incomplete work in
    future.
    
  Requirements:
@@ -25,7 +25,7 @@ Have to be work in future:
     
  Challenges:
  1) I tried to use a Sound Engine like 'irrKlang' but there are less documentation. So, I could not manage to play multiple sounds at a       time.
- 2) I calculate all of the asteroid position menually and calculate the the ditection value, As a result there is a bug in score count,       but for now it is quite decent to play.
+ 2) I calculate all of the asteroid position menually and calculate the collision value, As a result there is a bug in score count,           but for now it is quite decent to play.
  
  Youtube Link:
  1) Air_Strike (openGL): https://www.youtube.com/watch?v=-0FaacByG4w&feature=youtu.be
