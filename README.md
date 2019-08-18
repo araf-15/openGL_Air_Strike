@@ -22,6 +22,7 @@ Have to be work in future:
  Requirements:
  1) As I used a background sound so, some settings in Code-Blocks is required. 
     Go to Settings > Compiler > Linker Settings > Other Linker Options > now wirte '-lwinmm' > Press 'Ok'
+ 2) We have to use <MMSystem.h> header file to include sound in the game. (Remember: <MMSystem.h> should be use just after the <windows.h> header file)
     
  Challenges:
  1) I tried to use a Sound Engine like 'irrKlang' but there are less documentation. So, I could not manage to play multiple sounds at a       time.
@@ -30,4 +31,4 @@ Have to be work in future:
  Youtube Link:
  1) Air_Strike (openGL): https://www.youtube.com/watch?v=-0FaacByG4w&feature=youtu.be
  
- 2) One day I made another game by Assembly Language: Name of the game was: Box_Slash_Game: If any one is intrested can click this link: https://www.youtube.com/watch?v=I4y7Hdu8PVo&t=48s
+ 2) I made another game by Assembly Language when I complete my Assembly language course: Name of the game was: Box_Slash_Game: If any one is intrested can click this link: https://www.youtube.com/watch?v=I4y7Hdu8PVo&t=48s
